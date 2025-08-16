@@ -81,7 +81,7 @@ The system uses a Naive Bayes classifier to predict project health based on vari
 - Team performance metrics
 
 ## Technologies Used
-- **Python 3.x**
+- **Python 3.11**
 - **Machine Learning**: scikit-learn
 - **Data Processing**: pandas, numpy
 - **Web Framework**: Streamlit

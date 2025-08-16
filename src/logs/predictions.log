@@ -1,0 +1,1 @@
+{"timestamp": "2025-08-14T15:38:43.724448", "username": "anonymous", "prediction": "At Risk", "confidence": 0.9399443685990534, "input_data": {"budget_variance": 15.0, "schedule_variance": 18.0, "resource_utilization": 95, "risk_score": 6.5, "team_size": 12, "project_duration": 120}}
